@@ -8,3 +8,9 @@ code on Linux system, we will most likely be using Git on command line
 to get our code from repositories that we wrote on. This process of 
 writing code on one system and running code on a more powerful system is 
 an integral part of data science.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: One field is stock trading. People use data science to track
+stock behavior and use that as a basis for trading.
+
