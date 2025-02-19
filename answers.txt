@@ -1,0 +1,10 @@
+Q1: Why might we consider using Git?
+
+Answer: There really is no reason to use it, we have GitHub Desktop to 
+make life easier. On top of that, there are better Git GUIs out there. 
+But to answer your question, so that we can learn how to work with Linux 
+systems which are more prevalent in the industry. When we need to run 
+code on Linux system, we will most likely be using Git on command line 
+to get our code from repositories that we wrote on. This process of 
+writing code on one system and running code on a more powerful system is 
+an integral part of data science.
