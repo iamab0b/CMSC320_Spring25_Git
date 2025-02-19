@@ -23,3 +23,7 @@ updates to that branch's main stream. If there were updates to main and
 the branch user wants to bring those updates into their branch, they can 
 do so using rebase. The main difference is that merging combines 
 branches while rebase updates a branch based on its main.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Getting experience to prepare me for industry.
