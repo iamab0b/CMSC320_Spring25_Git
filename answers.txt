@@ -14,3 +14,12 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: One field is stock trading. People use data science to track
 stock behavior and use that as a basis for trading.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging directly combines 2 given branches, and depending on 
+which branch is doing the mergine, that then becomes the new branch. 
+Rebasing, on the other hand, is meant to update a branch with the latest 
+updates to that branch's main stream. If there were updates to main and 
+the branch user wants to bring those updates into their branch, they can 
+do so using rebase. The main difference is that merging combines 
+branches while rebase updates a branch based on its main.
